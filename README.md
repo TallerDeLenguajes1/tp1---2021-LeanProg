@@ -1,4 +1,5 @@
 # tp1---2021-LeanProg
+# Archivo Readme
 tp1---2021-LeanProg created by GitHub Classroom
 Un archivo README, junto con una licencia de repositorio, pautas de contribución y un código de conducta, te ayudan a comunicar las expectativas y a administrar las contribuciones para tu proyecto.
 
@@ -10,3 +11,4 @@ Cómo pueden comenzar los usuarios con el proyecto.
 Dónde pueden recibir ayuda los usuarios con tu proyecto
 Quién mantiene y contribuye con el proyecto.
 Si colocas tu archivo README en la raíz de tu repositorio, docs, o en el directorio oculto .github, GitHub lo reconocerá y automáticamente expondrá tu archivo README a los visitantes del repositorio.
+# Archivo gitignore
